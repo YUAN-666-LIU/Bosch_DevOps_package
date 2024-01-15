@@ -1,7 +1,7 @@
 # Technical Documentation & User Manual
-![图片](img\image2022-1-12_11-2-57.png)
+![图片](img/image2022-1-12_11-2-57.png)
 ## Major step for Technical Documentation
-![图片](img\image2022-1-12_11-2-16.png)
+![图片](img/image2022-1-12_11-2-16.png)
 
 ## Project Key Data Template
 ||Project Key Data|
@@ -24,8 +24,8 @@
 ## Technical schemas
 * A schema is a visual representation of a complex engineering solution.
 * It should be understandable without any other text, but I recommend writing a small paragraph to explain how to read it to make sure everyone understands the same thing.
-![图片](img\image2022-1-12_11-10-32.png)
-![图片](img\image2022-1-12_11-10-38.png)
+![图片](img/image2022-1-12_11-10-32.png)
+![图片](img/image2022-1-12_11-10-38.png)
 
 ## Major Risks Template 
 |Risk name|Description (What exactly is the risk? What does the risk affect, e.g. the project plan, other projects, … ?)|Category|
@@ -65,10 +65,10 @@
 6. Include licensing information
 
 README file
-![图片](img\README_Sample.png)
+![图片](img/README_Sample.png)
 
 API documentation
-![图片](img\function_example.png)
+![图片](img/function_example.png)
 
 If you need to write Technical document on Excel, please download the Template.
-[![lean](img\placeholder.png)](https://inside-docupedia.bosch.com/confluence/download/attachments/2089757377/Automation%20Technicial%20Doc.xlsx?version=2&modificationDate=1646105246000&api=v2)
+[![lean](img/placeholder.png)](https://inside-docupedia.bosch.com/confluence/download/attachments/2089757377/Automation%20Technicial%20Doc.xlsx?version=2&modificationDate=1646105246000&api=v2)

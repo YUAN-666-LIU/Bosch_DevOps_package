@@ -12,12 +12,12 @@ Tools: GitHub, Source Tree, OneDrive
 For Documents related to the project and user Manual, it's better to store the in Docupedia under the project name.
 
 For the documents require version control or strongly related to the code, it's better to write it in Markdown and store it in GitHub.
-![图片](img\image2022-1-12_16-53-58.png)
+![图片](img/image2022-1-12_16-53-58.png)
 ## Branch
 1.Create at least 2 Branches.
 2.Separate test environment and production environment.
 3.Merge after fully tested.
-![图片](img\image2022-1-12_10-37-9.png)
+![图片](img/image2022-1-12_10-37-9.png)
 ## Commit Requirements
 1.Only Commit after a function is finished. Do not push unfinished function to the cloud.
 2.Summarize changes in around 50 characters or less( If you’re having a hard time summarizing, you might be committing too many changes at once)

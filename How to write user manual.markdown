@@ -1,6 +1,6 @@
 # How to write user manual
 ## 5 Easy-to-Follow Steps
-![图片](img\image2022-1-12_13-35-26.png)
+![图片](img/image2022-1-12_13-35-26.png)
 
 ## User Manual - The essential elements of great user documentation
 * Plain language

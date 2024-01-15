@@ -4,7 +4,7 @@ This tutorial will guide you through the basic steps of System Design Document, 
 
 Use Word online document to write this SDD. 
 
-![图片](img\image-2023-12-18_15-32-56.png)
+![图片](img/image-2023-12-18_15-32-56.png)
 
 your teammates are able to comment in the Doc.
 
