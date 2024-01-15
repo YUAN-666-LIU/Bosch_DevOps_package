@@ -13,6 +13,6 @@ Download the following markdown file
 5）The usage method of the project is shown in the following figure
 ![图片](img\image-2023-12-27_15-24-7.png)
 6）The final generated markdown file is roughly as follows
-![图片](img\image-2023-12-27_15-36-57.png)
+![图片](img/image-2023-12-27_15-36-57.png)
 7）If you want a more beautiful template, you can beautify the generated markup file yourself. The beautified file format is as follows.
-![图片](img\image-2023-12-27_15-37-52.png)
+![图片](img/image-2023-12-27_15-37-52.png)
